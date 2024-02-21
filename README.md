@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact [I'm a professional kitten (don't ask)](I'm a professional kitten (don't ask))
 
-- 📝 I regularly write articles on [Your mom (:](Your mom (:)
+- 📝 I regularly write articles on (Your mom (:)
 
 - 💬 Ask me about **python, java, liran gaming, the meaning of life**
 
