@@ -3,6 +3,8 @@
 <!--
 **GilsaMedia/GilsaMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![banner](https://github.com/GilsaMedia/GilsaMedia/assets/120129694/65f0a3b3-8ff0-4716-a278-bad76f74c6a2)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
