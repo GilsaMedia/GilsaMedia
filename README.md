@@ -1,10 +1,10 @@
 ## 💫 About Me:
-💻 I'm a 16 years old teen that love to learn new languages (curently know java, python, c++\c),
-🤖 I'm in a Frc team NeatTeam#1943 (And been in FIRST for 7 years now),
-🔭 Currently making more Java project for NeatTeam and just for fun,
-💬 Ask me about anything you want, I'm always happy to help!,
-📫 Feel free to reach me out through Discord: @gilsa,
-⚡ Fun fact, I really like climbing,
+💻 I'm a 16 years old teen that love to learn new languages (curently know java, python, c++\c),<br>
+🤖 I'm in a Frc team NeatTeam#1943 (And been in FIRST for 7 years now),<br>
+🔭 Currently making more Java project for NeatTeam and just for fun,<br>
+💬 Ask me about anything you want, I'm always happy to help!,<br>
+📫 Feel free to reach me out through Discord: @gilsa,<br>
+⚡ Fun fact, I really like climbing,<br>
 😀 Pronouns: He/Him,
 
 ## 🌐 Socials:
