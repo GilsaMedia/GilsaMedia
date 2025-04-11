@@ -7,16 +7,6 @@
 ⚡ Fun fact, I really like climbing,
 😀 Pronouns: He/Him,
 
-💫 About Me:
-💻 I'm a 19 years old passionate self-taught developer
-🤖 I'm a FIRST alum (has been at FIRST for 10 years now)
-🔭 I’m currently working on Java and TypeScript projects
-🌱 I’m looking to learn Flutter and ML
-💬 Ask me about anything you want, I'm always happy to help!
-📫 Feel free to reach me out through Discord: @yarond
-⚡ Fun fact, I really like sushi!
-😀 Pronouns: He/Him
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gilsa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gil_sali) 
 
