@@ -1,11 +1,11 @@
 ## 💫 About Me:
-💻 I'm a 16 years old teen that love to learn new languages (curently know java, python, c++\c),
-🤖 I'm in a Frc team NeatTeam#1943 (And been in FIRST for 7 years now)
-🔭 Currently making more Java project for NeatTeam and just for fun
-💬 Ask me about anything you want, I'm always happy to help!
-📫 Feel free to reach me out through Discord: @gilsa
-⚡ Fun fact, I really like climbing
-😀 Pronouns: He/Him
+💻 I'm a 16 years old teen that love to learn new languages (curently know java, python, c++\c),\n
+🤖 I'm in a Frc team NeatTeam#1943 (And been in FIRST for 7 years now),
+🔭 Currently making more Java project for NeatTeam and just for fun,
+💬 Ask me about anything you want, I'm always happy to help!,
+📫 Feel free to reach me out through Discord: @gilsa,
+⚡ Fun fact, I really like climbing,
+😀 Pronouns: He/Him,
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gilsa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gil_sali) 
