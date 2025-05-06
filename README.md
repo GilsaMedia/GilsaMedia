@@ -1,5 +1,5 @@
 ## 💫 About Me:
-💻 I'm a 16 years old teen that love to learn new languages (curently know java, python, c++\c),<br>
+💻 I'm a 16 years old teen that love to learn new languages (curently know Java, JavaScript, Python, C++\C),<br>
 🤖 I'm in a Frc team NeatTeam#1943 (And been in FIRST for 7 years now),<br>
 🔭 Currently making more Java project for NeatTeam and just for fun,<br>
 💬 Ask me about anything you want, I'm always happy to help!,<br>
